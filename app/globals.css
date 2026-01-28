@@ -24,3 +24,19 @@ h3{
   font-family: "Oswald", sans-serif;
   color: white
 }
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+@keyframes floatSoft {
+  0%, 100% {
+    transform: translateY(4px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.animate-float-soft {
+  animation: floatSoft 3s ease-in-out infinite;
+}

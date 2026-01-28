@@ -11,7 +11,7 @@ const geistSans = Geist({
 
 export const metadata: Metadata = {
   title: "FARHAMA — Scents & Abayaa", 
-  description: " a luxury lifestyle brand offering premium fragrances and modest fashion for *women, men, and children aged 5 and above*, alongside high-quality accessories. The brand specializes in elegant abayas, refined men's wear, children's designs, and *premium base accessories* such as bags, jewelry cores, belts, and tech straps",
+  description: " a luxury lifestyle brand offering premium fragrances and modest fashion for women, men, and children aged 5 and above, alongside high-quality accessories. The brand specializes in elegant abayas, refined men's wear, children's designs, and *premium base accessories* such as bags, jewelry cores, belts, and tech straps",
 };
 
 export default function RootLayout({
